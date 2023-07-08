@@ -19,4 +19,4 @@ I also interested in develop game mods
 <a><img src="https://img.shields.io/badge/Creation Kit-181717?style=flat-square&logo=ipfs&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Unity-181717?style=flat-square&logo=unity&logoColor=FFFFFF"/></a>
 # Github state
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsj3925&show_icons=true&theme=apprentice)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashfractal&show_icons=true&theme=apprentice)
