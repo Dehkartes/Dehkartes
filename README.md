@@ -1,9 +1,7 @@
 <a href="https://github.com/hsj3925" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
 <a href="https://www.nexusmods.com/users/38128390" target="_blank"><img src="https://img.shields.io/badge/NexusMods-FF9900?style=flat-square&logo=Bath ASU&logoColor=FFFFFF"/></a>
 # Welcome
-I'm a back-end engineer using c++  
-and studying AI now.  
-I also interested in develop game mods
+Welcome indeed
 
 # Skills
 ### Language & Framework
@@ -19,4 +17,4 @@ I also interested in develop game mods
 <a><img src="https://img.shields.io/badge/Creation Kit-181717?style=flat-square&logo=ipfs&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Unity-181717?style=flat-square&logo=unity&logoColor=FFFFFF"/></a>
 # Github state
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pharskal&show_icons=true&theme=apprentice)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dehkartes&show_icons=true&theme=apprentice)
