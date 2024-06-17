@@ -1,5 +1,6 @@
 <a href="https://github.com/hsj3925" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
 <a href="https://www.nexusmods.com/users/38128390" target="_blank"><img src="https://img.shields.io/badge/NexusMods-FF9900?style=flat-square&logo=Bath ASU&logoColor=FFFFFF"/></a>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hsj3925)](https://solved.ac/hsj3925)
 # Welcome
 Welcome indeed
 
@@ -18,4 +19,3 @@ Welcome indeed
 <a><img src="https://img.shields.io/badge/Unity-181717?style=flat-square&logo=unity&logoColor=FFFFFF"/></a>
 # Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dehkartes&show_icons=true&theme=apprentice)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj3925)](https://solved.ac/hsj3925)
