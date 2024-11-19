@@ -1,5 +1,6 @@
 <a href="https://github.com/hsj3925" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
 <a href="https://www.nexusmods.com/users/38128390" target="_blank"><img src="https://img.shields.io/badge/NexusMods-FF9900?style=flat-square&logo=Bath ASU&logoColor=FFFFFF"/></a>
+<a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" /></a>
 # Welcome
 Welcome indeed
 
@@ -21,7 +22,3 @@ Welcome indeed
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dehkartes&show_icons=true&theme=apprentice)
 ### Baekjoon
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj3925)](https://solved.ac/hsj3925)
-
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
-</a>
