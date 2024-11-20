@@ -22,5 +22,3 @@ Welcome indeed
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dehkartes&show_icons=true&theme=apprentice)
 ### Baekjoon
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj3925)](https://solved.ac/hsj3925)
-### AWS
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ba72c5fa-47d3-4105-a42f-309e5bb802bf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
