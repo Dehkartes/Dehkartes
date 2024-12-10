@@ -4,8 +4,6 @@
 <a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" /></a>
 # Welcome
 Welcome indeed
-# Tech Blog
-https://dehkartes.github.io/
 # Skills
 ### Language & Framework
 <a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF"/></a>
