@@ -4,6 +4,8 @@
 # Welcome
 Welcome indeed
 
+# Tech Blog
+https://dehkartes.github.io/
 # Skills
 ### Language & Framework
 <a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF"/></a>
