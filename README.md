@@ -3,7 +3,7 @@
 <a href="https://www.nexusmods.com/users/38128390" target="_blank"><img src="https://img.shields.io/badge/NexusMods-FF9900?style=flat-square&logo=Bath ASU&logoColor=FFFFFF"/></a>
 <a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" /></a>
 # Welcome
-Welcome indeed
+I'm an AI engineer with an interest in AI agents.
 # Skills
 ### Language & Framework
 <a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF"/></a>
