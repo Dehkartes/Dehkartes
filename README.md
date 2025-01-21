@@ -13,6 +13,7 @@ I'm an AI engineer with an interest in AI agents.
 ### DBMS
 <a><img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/Redis-CC2927?style=flat-square&logo=redis&logoColor=FFFFFF"/></a>
 ### Miscellaneous
 <a><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Creation Kit-181717?style=flat-square&logo=ipfs&logoColor=FFFFFF"/></a>
