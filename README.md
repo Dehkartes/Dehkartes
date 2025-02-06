@@ -19,7 +19,15 @@ I'm an AI engineer with an interest in AI agents.
 <a><img src="https://img.shields.io/badge/Creation Kit-181717?style=flat-square&logo=ipfs&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Unity-181717?style=flat-square&logo=unity&logoColor=FFFFFF"/></a>
 # Status
-### GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dehkartes&show_icons=true&theme=apprentice)
-### Baekjoon
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj3925)](https://solved.ac/hsj3925)
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dehkartes&show_icons=true&theme=apprentice" alt="Dehkartes's GitHub stats" />
+    </td>
+    <td>
+  <a href="https://solved.ac/pengoosedev/">
+    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj3925" alt="Solved.ac Profile" />
+  </a>
+    </td>
+  </tr>
+</table>
