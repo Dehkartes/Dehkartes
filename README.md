@@ -25,7 +25,7 @@ I'm an AI engineer with an interest in AI agents.
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dehkartes&show_icons=true&theme=apprentice" alt="Dehkartes's GitHub stats" />
     </td>
     <td>
-  <a href="https://solved.ac/pengoosedev/">
+  <a href="https://solved.ac/hsj3925/">
     <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj3925" alt="Solved.ac Profile" />
   </a>
     </td>
