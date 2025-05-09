@@ -1,6 +1,6 @@
 <a href="https://github.com/dehkartes/" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
 <a href="https://dehkartes.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=github"/></a>
-<a href="https://www.nexusmods.com/users/38128390" target="_blank"><img src="https://img.shields.io/badge/NexusMods-FF9900?style=flat-square&logo=Bath ASU&logoColor=FFFFFF"/></a>
+<a href="https://www.nexusmods.com/users/38128390" target="_blank"><img src="https://img.shields.io/badge/NexusMods-FF9900?style=flat-square&logo=nexusmods&logoColor=FFFFFF"/></a>
 <a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" /></a>
 # Welcome
 I'm a software engineer with an interest in AI agents.
