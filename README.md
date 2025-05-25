@@ -1,5 +1,5 @@
 <a href="https://github.com/dehkartes/" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
-<a href="https://dehkartes.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=github"/></a>
+<a href="https://dehkartes.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-181717?style=flat-square&logo=vfairs&logoColor=FFFFFF"/></a>
 <a href="https://www.nexusmods.com/users/38128390" target="_blank"><img src="https://img.shields.io/badge/NexusMods-FF9900?style=flat-square&logo=nexusmods&logoColor=FFFFFF"/></a>
 <a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" /></a>
 # Welcome
@@ -17,7 +17,6 @@ I'm a software engineer with an interest in AI agents.
 ### Miscellaneous
 <a><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Creation Kit-181717?style=flat-square&logo=ipfs&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/Unity-181717?style=flat-square&logo=unity&logoColor=FFFFFF"/></a>
 # Status
 <table width="100%">
   <tr>
